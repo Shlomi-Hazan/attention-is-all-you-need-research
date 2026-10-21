@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# Private source materials and internal review records
+/approved-reflection.md
+/presentation/"Attention Is All You Need" - Research Journey.pptx
+/presentation/attention-is-all-you-need-full.pdf
+/docs/m1-integration-report.md
+/docs/publication-review.md
+
+# Temporary files and local export artifacts
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+/tmp/
+/presentation/export/
+/presentation/rendered/
